@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there everyone
 
-<!--
-**MikeDevCOL/MikeDevCol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's Emanuel Obredor (Mike for my friends). I'm a developer passionate about the backend, with a full-stack mindset.
 
-Here are some ideas to get you started:
+I mainly work with Java (Spring Boot) to build robust and scalable APIs, and I use Dart / JavaScript to develop user 
+interfaces with Flutter or web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to grow into software engineering and artificial intelligence, focusing on designing clean architectures, 
+writing testable and well-documented code, and delivering real value through efficient, maintainable software.  
+
+> “Understanding the why behind the code is what makes the difference between just coding and truly creating solutions.” 
+
+I'm currently working on a backend project for my own entrepreneurial business. His name is [ChillAndMixAPI](https://github.com/MikeDevCOL/ChillAndMixAPI). You can check the source code in my repositories.  
+
+I’m currently learning about Machine Learning and Data Science.
