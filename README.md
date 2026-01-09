@@ -1,6 +1,11 @@
-## Hi there everyone
+<h1 align="center">Emanuel Obredor | Mike Dev | Software Developer</h1>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java%20developer-red?style=for-the-badge&logo=openjdk">
 
-Here's Emanuel Obredor (Mike for my friends). I'm a developer passionate about the backend, with a full-stack mindset.
+</p>
+
+
+Hi 👋 everyone, Here's Mike. I'm a developer passionate about the backend, with a full-stack mindset.
 
 I mainly work with Java (Spring Boot) to build robust and scalable APIs, and I use Dart / JavaScript to develop user 
 interfaces with Flutter or web technologies.
