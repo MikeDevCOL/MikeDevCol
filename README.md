@@ -66,6 +66,12 @@ I’m currently learning about Machine Learning and Data Science.
   <img alt="Static Badge" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
+## Let's connect
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?to=obredoremanuel@gmail.com&fs=1&tf=cm)  
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-success?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573001234567)  
+[![Instagram](https://img.shields.io/badge/Instagram-fuchsia?style=for-the-badge&logo=instagram)](https://www.instagram.com/mike.lawrence.dev/)  
+[![LinkedIn](https://img.shields.io/badge/Linkendin-blue?style=for-the-badge&logo=linkendin&logoColor=white)](https://www.linkedin.com/in/mikelw-dev/)  
+
 
 
 
