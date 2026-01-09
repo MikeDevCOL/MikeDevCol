@@ -68,7 +68,7 @@ I’m currently learning about Machine Learning and Data Science.
 
 ## Let's connect
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?to=obredoremanuel@gmail.com&fs=1&tf=cm)  
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-success?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573001234567)  
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-success?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573042343604)  
 [![Instagram](https://img.shields.io/badge/Instagram-fuchsia?style=for-the-badge&logo=instagram)](https://www.instagram.com/mike.lawrence.dev/)  
 [![LinkedIn](https://img.shields.io/badge/Linkendin-blue?style=for-the-badge&logo=linkendin&logoColor=white)](https://www.linkedin.com/in/mikelw-dev/)  
 
