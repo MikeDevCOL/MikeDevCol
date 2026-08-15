@@ -16,7 +16,7 @@ writing testable and well-documented code, and delivering real value through eff
 
 > “Understanding the why behind the code is what makes the difference between just coding and truly creating solutions.” 
 
-I'm currently working on a backend project for my own entrepreneurial business. His name is [ChillAndMixAPI](https://github.com/MikeDevCOL/ChillAndMixAPI). You can check the source code in my repositories.  
+I'm currently working on a backend project for my own portfolio. His name is [RestaurantAPI](https://github.com/MikeDevCOL/restaurantapi). You can check the source code in my repositories.  
 
 I’m currently learning about Machine Learning and Data Science.
 
