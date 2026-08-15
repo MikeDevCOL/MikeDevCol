@@ -6,20 +6,17 @@
   <img alt="Static Badge" src="https://avatars.githubusercontent.com/u/241241118?v=4">
 </p>
 
-Hi 👋 everyone, here's Mike. I'm a developer passionate about the backend, with a full-stack mindset.
+Hi 👋, I'm Mike — a software developer focused on backend development with a full-stack mindset.
 
-I mainly work with Java (Spring Boot) to build robust and scalable APIs, and I use Dart / JavaScript to develop user 
-interfaces with Flutter or web technologies.
+I mainly work with Java and Spring Boot to design and build REST APIs, applying clean architecture, database design, testing, and good software engineering practices. On the frontend, I work with JavaScript, React, and Flutter to build functional and user-friendly interfaces.
 
-My goal is to grow into software engineering and artificial intelligence, focusing on designing clean architectures, 
-writing testable and well-documented code, and delivering real value through efficient, maintainable software.  
+I enjoy understanding how systems work under the hood and turning ideas into maintainable software. My focus is on writing clean, well-structured, and testable code while continuously improving my knowledge of software architecture, backend development, and cloud technologies.
 
-> “Understanding the why behind the code is what makes the difference between just coding and truly creating solutions.” 
+I'm currently building projects for my portfolio, including [RestaurantAPI](https://github.com/MikeDevCOL/restaurantapi), a backend project focused on applying real-world software engineering practices.
 
-I'm currently working on a backend project for my own portfolio. His name is [RestaurantAPI](https://github.com/MikeDevCOL/restaurantapi). You can check the source code in my repositories.  
+I'm also expanding my knowledge in Machine Learning and Data Science, with the long-term goal of combining software engineering with artificial intelligence.
 
-I’m currently learning about Machine Learning and Data Science.
-
+> “Understanding the why behind the code is what makes the difference between just coding and truly creating solutions.”
 ## Technical skills
 
 ### Languages
