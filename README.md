@@ -6,7 +6,7 @@
   <img alt="Static Badge" src="https://avatars.githubusercontent.com/u/241241118?v=4">
 </p>
 
-Hi 👋, I'm Mike — a software developer focused on backend development with a full-stack mindset.
+Hi 👋, I'm Emanuel (MikeDev) — a software developer focused on backend development with a full-stack mindset.
 
 I mainly work with Java and Spring Boot to design and build REST APIs, applying clean architecture, database design, testing, and good software engineering practices. On the frontend, I work with JavaScript, React, and Flutter to build functional and user-friendly interfaces.
 
