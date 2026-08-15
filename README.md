@@ -24,54 +24,60 @@ I’m currently learning about Machine Learning and Data Science.
 
 ### Languages
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
 ### Frameworks and libraries
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-success?style=for-the-badge&logo=spring&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-success?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 
 ### Web frontend design
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Sass-indigo?style=for-the-badge&logo=sass&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-indigo?style=for-the-badge&logo=sass&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ### Data
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 ### Cloud
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render">
-  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=aws">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=aws&logoColor=white">
 </p>
 
+### Version Control
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 ### Tools
 <p>  
-  <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Intellij%20IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Intellij%20IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ## Let's connect
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?to=obredoremanuel@gmail.com&fs=1&tf=cm)  
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-success?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573042343604)  
-[![Instagram](https://img.shields.io/badge/Instagram-fuchsia?style=for-the-badge&logo=instagram)](https://www.instagram.com/mike.lawrence.dev/)  
-[![LinkedIn](https://img.shields.io/badge/Linkendin-blue?style=for-the-badge&logo=linkendin&logoColor=white)](https://www.linkedin.com/in/mikelw-dev/)  
 
-
-
-
+<p>
+  <a href="https://mail.google.com/mail/u/0/?to=obredoremanuel@gmail.com&fs=1&tf=cm">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335">
+  </a>
+  <a href="https://www.linkedin.com/in/mikelw-dev/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
