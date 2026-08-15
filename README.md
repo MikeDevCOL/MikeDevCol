@@ -12,7 +12,7 @@ I mainly work with Java and Spring Boot to design and build REST APIs, applying 
 
 I enjoy understanding how systems work under the hood and turning ideas into maintainable software. My focus is on writing clean, well-structured, and testable code while continuously improving my knowledge of software architecture, backend development, and cloud technologies.
 
-I'm currently building projects for my portfolio, including [RestaurantAPI](https://github.com/MikeDevCOL/restaurantapi), a backend project focused on applying real-world software engineering practices.
+I'm currently building projects for my portfolio, including [Fintech](https://github.com/MikeDevCOL/fintech), a backend project focused on applying real-world software engineering practices.
 
 I'm also expanding my knowledge in Machine Learning and Data Science, with the long-term goal of combining software engineering with artificial intelligence.
 
